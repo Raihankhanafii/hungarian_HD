@@ -3,3 +3,4 @@ pandas
 imblearn
 numpy
 scikit-learn
+xgboost
