@@ -8,7 +8,6 @@ from imblearn.over_sampling import SMOTE
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split, RandomizedSearchCV
 from sklearn.preprocessing import MinMaxScaler
-from xgboost import XGBClassifier
 
 import time
 import pickle
